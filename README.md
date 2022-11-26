@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrabya35&" alt="shrabya35" /></p>
 
-## Watch my contributions get eaten by snake snake
+## Watch my contributions get eaten by snake🐍
 ![snake gif](https://github.com/Shrabya35/Shrabya35/blob/output/github-contribution-grid-snake.gif)
 
