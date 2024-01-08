@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrabya35&label=Profile%20views&color=0e75b6&style=flat" alt="shrabya35" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shrabyaraj@gmail.com**
 
-- ⚡ Fun fact **Nothing is fun anymore**
+- ⚡ Fun fact **There are only 10 types of people: those who understand binary and those who don't.**
 
 
 <p align="left">
