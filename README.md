@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrabya35&label=Profile%20views&color=0e75b6&style=flat" alt="shrabya35" /> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **shrabyaraj@gmail.com**
 
