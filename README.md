@@ -52,14 +52,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Shrabya35&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabya35&theme=dark&layout=compact&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=shrabya35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrabya35&theme=dark&hide_border=false)
 
-
-
+## 📊 GitHub Contribution:
+![Snake animation](https://raw.githubusercontent.com/Shrabya35/Shrabya35/output/github-contribution-grid-snake-dark.svg)
